@@ -1,0 +1,64 @@
+{
+  "hotels": [
+    {
+      "id": "b2a0e4e8-4c5e-4e2e-9f36-89b5e0f6b4a3",
+      "name": "The Grand Hotel",
+      "description": "A luxurious hotel located in the heart of the city, offering stunning views and top-notch amenities.",
+      "image": "/img/grand-hotel.webp"
+    },
+    {
+      "id": "f1c3a1b7-3b1a-4c2c-80d8-9e0a2a1c2c4f",
+      "name": "Seaside Resort",
+      "description": "A beautiful beachfront resort with private villas and a serene atmosphere for relaxation.",
+      "image": "/img/seaside-resort.jpg"
+    },
+    {
+      "id": "a3b6c7e0-0e3d-4e41-af9f-7de3d7f2c5a6",
+      "name": "Mountain Lodge",
+      "description": "A cozy lodge nestled in the mountains, perfect for outdoor enthusiasts and nature lovers.",
+      "image": "/img/mountain-lodge.jpg"
+    },
+    {
+      "id": "d6e8b8f3-7d1e-4c5e-9a8a-5e3d4c1e7c8b",
+      "name": "Urban Boutique Hotel",
+      "description": "A stylish boutique hotel that blends modern design with comfort, located in a vibrant neighborhood.",
+      "image": "/img/urban-boutique.jpg"
+    },
+    {
+      "id": "e1f3d5c8-9f0a-4d5b-8c6e-9c2c7f4e0a1f",
+      "name": "Historic Inn",
+      "description": "A charming inn with rich history, providing a unique experience with antique decor and old-world hospitality.",
+      "image": "/img/historic-inn.jpg"
+    },
+    {
+      "id": "c9e3b1a5-1c8b-4f3e-9e5b-8e0f2e1d4c7a",
+      "name": "Luxury Spa Hotel",
+      "description": "An opulent hotel featuring a world-class spa, fine dining, and personalized services for a rejuvenating getaway.",
+      "image": "/img/luxury-spa-hotel.webp"
+    },
+    {
+      "id": "b7d2e0a1-3c4d-4b3b-a1a5-5e3b1e2f8c9d",
+      "name": "Desert Oasis Hotel",
+      "description": "A tranquil hotel surrounded by stunning desert landscapes, offering luxury and adventure.",
+      "image": "/img/desert-oasis.jpg"
+    },
+    {
+      "id": "f4e3b2c0-9a2e-4c8a-b6a3-99b5c5e3e4f1",
+      "name": "City Center Inn & Suites",
+      "description": "Modern suites located in the bustling city center, ideal for business and leisure travelers.",
+      "image": "/img/city-center-suites.jpg"
+    },
+    {
+      "id": "e4a1b5f6-8c8f-4c5d-9e1f-3b2e1c3d7a2b",
+      "name": "Countryside Retreat",
+      "description": "A peaceful retreat in the countryside, perfect for a relaxing getaway surrounded by nature.",
+      "image": "/img/countryside-retreat.jpg"
+    },
+    {
+      "id": "c6f1a2b3-0d2b-4c4c-a7e7-8c2e9f1c5d7a",
+      "name": "Skyline View Hotel",
+      "description": "An elegant hotel offering panoramic skyline views, fine dining, and exceptional service.",
+      "image": "/img/skyline-view.jpg"
+    }
+  ]
+}
